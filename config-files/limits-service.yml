@@ -1,3 +1,4 @@
 ---
-info:
-    name: Limits service
+limits-service:
+    minimum: 1
+    maximum: 999
